@@ -1,16 +1,33 @@
-### Hi there 👋
+👋 Hello, I'm [Your Name], passionate about crafting intuitive and dynamic user experiences.
 
-<!--
-**VladTPG/VladTPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technical Stack
 
-Here are some ideas to get you started:
+    🌐 HTML | CSS | JavaScript (ES6+)
+    🖥️ Python 3 | C/C++
+    🎨 Figma | Photoshop | Lightroom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I'm Focused On
+
+    Delivering clean, scalable, and maintainable code.
+    Creating seamless, intuitive, and visually appealing user interfaces.
+    Keeping up-to-date with the latest trends and technologies in frontend development.
+
+🌱 I’m Currently Learning
+
+    ReactJS | Redux | React Router | Material-UI
+    Firebase | MongoDB | Node
+    TypeScript
+    GraphQL
+    
+🤝 I'm Open to Collaborate on
+
+    Open-source projects.
+    Freelance projects.
+    Mentorship and knowledge exchange.
+
+📫 How to Reach Me
+
+    📧 Email: cojanvladandrei@yahoo.com
+    💼 LinkedIn: https://www.linkedin.com/in/vlad-cojan-2aa36922a/
+
+Let's connect and make something awesome together! 🚀
