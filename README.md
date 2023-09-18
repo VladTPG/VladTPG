@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name], passionate about crafting intuitive and dynamic user experiences.
+👋 Hello, I'm Vlad Cojan, passionate about crafting intuitive and dynamic user experiences.
 
 🛠️ Technical Stack
 
