@@ -1,13 +1,9 @@
-<div align="center">
-
 # Hi, I'm Vlad
 
 **Software Engineer** · Angular · .NET · ASP.NET Core
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/vlad-cojan-2aa36922a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square)](https://instagram.com/vlad.cojan)
-
-</div>
 
 ---
 
@@ -35,4 +31,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [**Image Encrypter**](https://github.com/VladTPG/image-encrypter) | Distributed image encryption pipeline. Uploads go through a JWT-secured API onto a RabbitMQ queue, get AES-256 encrypted in parallel by C workers using MPI and OpenMP, and are tracked from a live monitoring dashboard. | Java · Spring Boot · RabbitMQ · C · MPI · Vue · Docker |
+| [**Stack Crawler**](https://github.com/VladTPG/stack-crawler-veridion) | Detects the technologies behind websites at scale. A plugin-based set of extractors reads headers, cookies, scripts, DNS records and TLS certificates, with domains scanned in parallel across processes. | Python · BeautifulSoup · dnspython · pandas |
+| [**GigFinder**](https://github.com/VladTPG/gigfinder) · [live](https://gigfinder-nine.vercel.app) | Platform connecting musicians, bands and venues: profiles, gig listings and applications, messaging, follows and video uploads. | Next.js · React · Firebase · MinIO · Tailwind CSS |
 | [**UrbanDash**](https://github.com/VladTPG/hackathon-ea) | Hackathon dashboard where city residents report local issues, share community highlights and earn points for eco-friendly challenges, all on a live map. | Next.js · Tailwind CSS · shadcn/ui · Firebase |
