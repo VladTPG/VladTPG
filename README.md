@@ -31,6 +31,7 @@
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [**xbox2ps**](https://github.com/VladTPG/xbox2ps) · [download](https://github.com/VladTPG/xbox2ps/releases/latest) | Windows app that lets you use an Xbox controller, or a keyboard and mouse, in PS Remote Play through a virtual DualSense. Supports remapping, combos, rumble, profiles and a live input preview. | C# · .NET · WPF · xUnit |
 | [**Image Encrypter**](https://github.com/VladTPG/image-encrypter) | Distributed image encryption pipeline. Uploads go through a JWT-secured API onto a RabbitMQ queue, get AES-256 encrypted in parallel by C workers using MPI and OpenMP, and are tracked from a live monitoring dashboard. | Java · Spring Boot · RabbitMQ · C · MPI · Vue · Docker |
 | [**Stack Crawler**](https://github.com/VladTPG/stack-crawler-veridion) | Detects the technologies behind websites at scale. A plugin-based set of extractors reads headers, cookies, scripts, DNS records and TLS certificates, with domains scanned in parallel across processes. | Python · BeautifulSoup · dnspython · pandas |
 | [**GigFinder**](https://github.com/VladTPG/gigfinder) · [live](https://gigfinder-nine.vercel.app) | Platform connecting musicians, bands and venues: profiles, gig listings and applications, messaging, follows and video uploads. | Next.js · React · Firebase · MinIO · Tailwind CSS |
